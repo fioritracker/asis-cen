@@ -1,3 +1,1 @@
-# asis-cen
-
-As-is for Central system - Release planned for Nov 2020
+As-Is API Main for Central 2020 BETA03
